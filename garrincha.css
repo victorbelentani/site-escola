@@ -38,6 +38,27 @@ justify-content: center;
     width: 40px;
 }
 .ttk{
-    width: 100px
+    width: 40px
     ;
+}
+
+.whats{
+width: 40px;
+
+}
+.twt{
+width: 40px;
+
+}
+.uti{
+    color: #ffffff;
+}
+
+
+.estu-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.mexico{
+    width: 200px;
 }
