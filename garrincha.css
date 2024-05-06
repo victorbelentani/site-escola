@@ -32,7 +32,7 @@ justify-content: center;
     width: 100px;
 }
 .vegeta{
-    width: 100px;
+    width: 90px;
 }
 .insta{
     width: 40px;
@@ -60,5 +60,21 @@ width: 40px;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .mexico{
-    width: 200px;
+    width: 230px;
+}
+.escolatxt{
+    color: #ffffff;
+}
+.tudo{
+    color: #ffffff;
+}
+.site-escola{
+    color: #ffffff;
+}
+.luis{
+    width: 100px;
+}
+.victor{
+
+    width: 300px;
 }
